@@ -9,6 +9,8 @@
 
 Hello my name is Thomas, AKA TheUndercoverCEO. My favourite programming language is Python (Seeing as it's the only language I really know).
 
+---
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
@@ -27,6 +29,8 @@ Hello my name is Thomas, AKA TheUndercoverCEO. My favourite programming language
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
 
 <p align="center"">📈 My GitHub Stats</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theundercoverceo&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
