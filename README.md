@@ -15,7 +15,7 @@ Hello my name is Thomas, AKA TheUndercoverCEO. My favourite programming language
 
 - 🔭 I’m currently working on a python data saving module for future projects
 - 🌱 I’m currently learning python and javascript.
-- - 📫 How to reach me: [@ceo_undercover](https://twitter.com/ceo_undercover);
+- 📫 How to reach me: [@ceo_undercover](https://twitter.com/ceo_undercover);
 
 <br/>
 **Languages and Tools:**  
