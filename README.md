@@ -11,6 +11,8 @@ Hello my name is Thomas, AKA TheUndercoverCEO. My favourite programming language
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<br/>
+
 - 🔭 I’m currently working on a python data saving module for future projects
 - 🌱 I’m currently learning python and javascript.
 - - 📫 How to reach me: [@ceo_undercover](https://twitter.com/ceo_undercover);
@@ -26,5 +28,5 @@ Hello my name is Thomas, AKA TheUndercoverCEO. My favourite programming language
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-<p style="text-align: center;">📈 My GitHub Stats</p>
+<p align="center"">📈 My GitHub Stats</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=theundercoverceo&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
