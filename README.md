@@ -9,11 +9,11 @@
 
 Hello my name is Thomas, AKA TheUndercoverCEO. My favourite programming language is Python (Seeing as it's the only language I really know).
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on a python data saving module for future projects
 - 🌱 I’m currently learning python and javascript.
 - - 📫 How to reach me: [@ceo_undercover](https://twitter.com/ceo_undercover);
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br/>
 **Languages and Tools:**  
