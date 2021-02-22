@@ -29,4 +29,4 @@ Hello my name is Thomas. My favourite programming language is Python (Seeing as 
 
 <p align="center"">📈 My GitHub Stats</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThomasLandstra&show_icons=true&theme=gotham" alt="thomaslandstra"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslandstra&theme=dark" alt="thomaslandstra"/></p>
-![Metrics](https://metrics.lecoq.io/ThomasLandstra?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&tweets=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Australia%2FSydney)
+![Metrics](https://metrics.lecoq.io/ThomasLandstra?template=classic&repositories.forks=true&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&tweets=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Australia%2FSydney)
