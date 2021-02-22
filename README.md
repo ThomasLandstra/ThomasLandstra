@@ -1,12 +1,17 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> 
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 <a href="https://twitter.com/thomaslandstra"/>
   <img align="left" alt="The Undercover CEO | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=theundercoverceo.theundercoverceo)
+
 <br/>
+
 Hello my name is Thomas. My favourite programming language is Python (Seeing as it's the only language I really know).
 
 ---
+
+<br/>
 
 - 🔭 I’m currently working on [A Python Data Saving Module](https://github.com/ThomasLandstra/PyEsave)
 
@@ -25,4 +30,3 @@ Hello my name is Thomas. My favourite programming language is Python (Seeing as 
 <p align="center"">📈 My GitHub Stats</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThomasLandstra&show_icons=true&theme=gotham" alt="thomaslandstra"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslandstra&theme=dark" alt="thomaslandstra"/></p>
 ![Metrics](https://metrics.lecoq.io/ThomasLandstra?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&tweets=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Australia%2FSydney)
-<br/>
