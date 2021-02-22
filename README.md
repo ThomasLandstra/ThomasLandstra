@@ -3,8 +3,6 @@
   <img align="left" alt="The Undercover CEO | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=theundercoverceo.theundercoverceo)
-
 <br/>
 
 Hello my name is Thomas. My favourite programming language is Python (Seeing as it's the only language I really know).
@@ -29,4 +27,4 @@ Hello my name is Thomas. My favourite programming language is Python (Seeing as 
 
 <p align="center"">📈 My GitHub Stats</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThomasLandstra&show_icons=true&theme=gotham" alt="thomaslandstra"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslandstra&theme=dark" alt="thomaslandstra"/></p>
-
+![](https://visitor-badge.glitch.me/badge?page_id=theundercoverceo.theundercoverceo)
