@@ -1068,13 +1068,13 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="280.70687632011266" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="278.71648180055996" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="280.70687632011266" y="0" width="150.99326113923627" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="278.71648180055996" y="0" width="151.19292483308206" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="431.7001374593489" y="0" width="26.714453347638045" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="429.90940663364205" y="0" width="28.49921925479216" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="458.41459080698695" y="0" width="1.585409193013042" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="458.4086258884342" y="0" width="1.591374111565798" height="8" fill="#f1e05a"/>
         
       </svg>
       
