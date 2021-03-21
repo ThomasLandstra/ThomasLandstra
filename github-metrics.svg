@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="628" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="648" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -1068,17 +1068,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="263.6171754742182" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="263.32697151540896" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="263.6171754742182" y="0" width="135.7030169083428" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="263.32697151540896" y="0" width="135.55362773194213" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="399.32019238256095" y="0" width="31.913104414856342" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="398.8805992473511" y="0" width="31.87797275386944" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="431.2332967974173" y="0" width="20.093436113057695" height="8" fill="#198CE7"/>
+          <rect mask="url(#languages-bar)" x="430.7585720012205" y="0" width="20.07131617836224" height="8" fill="#198CE7"/>
         
-          <rect mask="url(#languages-bar)" x="451.32673291047496" y="0" width="7.257111027258189" height="8" fill="#C1F12E"/>
+          <rect mask="url(#languages-bar)" x="450.8298881795827" y="0" width="7.2491220092974284" height="8" fill="#C1F12E"/>
         
-          <rect mask="url(#languages-bar)" x="458.5838439377332" y="0" width="1.416156062266784" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="458.07901018888015" y="0" width="1.4145970815409559" height="8" fill="#f1e05a"/>
+        
+          <rect mask="url(#languages-bar)" x="459.49360727042114" y="0" width="0.5063927295788636" height="8" fill="#000080"/>
         
       </svg>
       
@@ -1093,7 +1095,7 @@
                   </div>
                   <small>
                      <div>95.6 kB</div>
-                     <div>57.31%</div>
+                     <div>57.24%</div>
                   </small>
                 </div>
               
@@ -1104,7 +1106,7 @@
                   </div>
                   <small>
                      <div>11.5 kB</div>
-                     <div>6.94%</div>
+                     <div>6.93%</div>
                   </small>
                 </div>
               
@@ -1119,6 +1121,17 @@
                   </small>
                 </div>
               
+                <div class="field language details">
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                    Lua
+                  </div>
+                  <small>
+                     <div>184 bytes</div>
+                     <div>0.11%</div>
+                  </small>
+                </div>
+              
             </section>
           
             <section>
@@ -1130,7 +1143,7 @@
                   </div>
                   <small>
                      <div>49.2 kB</div>
-                     <div>29.5%</div>
+                     <div>29.47%</div>
                   </small>
                 </div>
               
@@ -1141,7 +1154,7 @@
                   </div>
                   <small>
                      <div>7.29 kB</div>
-                     <div>4.37%</div>
+                     <div>4.36%</div>
                   </small>
                 </div>
               
