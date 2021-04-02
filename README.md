@@ -13,9 +13,9 @@ Hello my name is Thomas. My favourite programming language is Python (Seeing as 
 
 <br/>
 
-- 🔭 I’m currently working on a web application that acts as a personal dashboard.
+- 🔭 I’m currently working on a bot for a discord server.
 
-- 🌱 I’m currently learning **JavaScript, advanced Python concepts and front end development**
+- 🌱 I’m currently learning **Node Js and javascript**
 
 - 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
 
