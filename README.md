@@ -7,7 +7,7 @@
 
 <br/>
 
-Hello my name is Thomas. My favourite programming language is Python (Seeing as it's the only language I really know).
+Hello my name is Thomas. My favourite programming language is Python and I love creating strange programs.
 
 ---
 
