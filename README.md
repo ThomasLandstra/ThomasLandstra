@@ -33,5 +33,5 @@ Hello my name is Thomas. My favourite programming language is Python (Seeing as 
 ---
 
 <p align="center"">📈 My GitHub Stats</p>
-<p align="center"> <img src="https://github-readme-stats-nine-bay.vercel.app/api?username=ThomasLandstra&show_icons=true&theme=great-gatsby" alt="thomaslandstra"/> <img src="https://github-readme-stats-nine-bay.vercel.app/?user=thomaslandstra&theme=great-gatsby" alt="thomaslandstra"/></p>
+<p align="center"> <img src="https://github-readme-stats-nine-bay.vercel.app/api?username=ThomasLandstra&show_icons=true&theme=great-gatsby" alt="thomaslandstra"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslandstra&theme=great-gatsby" alt="thomaslandstra"/></p>
 <p align="center"> <img src="https://github.com/thomaslandstra/thomaslandstra/blob/main/github-metrics.svg" alt="metrics"/>
