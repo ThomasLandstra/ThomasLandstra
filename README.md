@@ -22,7 +22,7 @@ Hello my name is Thomas. My favourite programming language is Python and I love 
 <br/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslandstra&theme=onedark" alt="thomaslandstra" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy-ten.vercel.app/?username=thomaslandstra&theme=onedark" alt="thomaslandstra" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
