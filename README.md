@@ -9,8 +9,6 @@
 
 Hello my name is Thomas. My favourite programming language is Python and I love creating strange programs.
 
----
-
 <br/>
 
 - 🔭 I’m currently working on a bot for a discord server.
@@ -18,6 +16,13 @@ Hello my name is Thomas. My favourite programming language is Python and I love 
 - 🌱 I’m currently learning **Node Js and javascript**
 
 - 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
+
+---
+
+<br/>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomaslandstra" alt="thomaslandstra" /></a> </p>
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
