@@ -9,13 +9,13 @@
 
 Hello my name is Thomas. My favourite programming language is Python and I love creating strange programs.
 
-<br/>
-
 - 🔭 I’m currently working on a bot for a discord server.
 
 - 🌱 I’m currently learning **Node Js and javascript**
 
 - 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
+
+<br/>
 
 ---
 
