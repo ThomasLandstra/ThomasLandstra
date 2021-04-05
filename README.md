@@ -15,8 +15,6 @@ Hello my name is Thomas. My favourite programming language is Python and I love 
 
 - 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
 
-<br/>
-
 ---
 
 <br/>
