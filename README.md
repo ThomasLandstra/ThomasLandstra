@@ -40,6 +40,9 @@ Hello my name is Thomas. My favourite programming language is Python and I love 
 
 <details>
   <summary>📈 My GitHub Stats</summary>
+  
+  <br>
+  
   <p align="center"> <img src="https://github-readme-stats-nine-bay.vercel.app/api?username=ThomasLandstra&show_icons=true&theme=great-gatsby" alt="thomaslandstra"/> <img src="https://undercover-readme-streak-stats.herokuapp.com/?user=thomaslandstra&theme=great-gatsby" alt="thomaslandstra"/></p>
   <p align="center"> <img src="https://github.com/thomaslandstra/thomaslandstra/blob/main/github-metrics.svg" alt="metrics"/>
 </details>
