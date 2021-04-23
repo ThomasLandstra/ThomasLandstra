@@ -1106,11 +1106,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.15148198755352" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="208.15148198755352" y="0" width="130.59363687581353" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="338.74511886336705" y="0" width="69.33616541791595" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="408.081284281283" y="0" width="27.995415131361668" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="436.07669941264464" y="0" width="23.923300587355346" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.14609033511414" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="208.14609033511414" y="0" width="130.5902541686903" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="338.73634450380445" y="0" width="69.34628460417679" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.08262910798123" y="0" width="27.994689978954185" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="436.0773190869354" y="0" width="23.922680913064596" height="8" fill="#198CE7"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1142,7 +1142,7 @@
                                     23.2 kB
                                 </div>
                                 <div>
-                                    15.07%
+                                    15.08%
                                 </div>
                             </small>
                         </div>
@@ -1215,21 +1215,28 @@
                             ThomasTheCEO
                         </div>
                         <div class="tweet">
+                            RT
                             <span class="mention">
-                                @MercedesAMGF1
+                                @SpaceX
                             </span>
-                            Wholesome.
+                            : Liftoff of Falcon 9 and Dragon!
+                            <a href="https://t.co/g6Oi8qwU2Y" class="link">
+                                pic.twitter.com/g6Oi8qwU2Y
+                            </a>
                             <div class="date">
-                                19:21 on 22/04/2021
+                                20:26 on 23/04/2021
                             </div>
                         </div>
                         <div class="tweet">
                             <span class="mention">
-                                @NASAJPL
+                                @wtf1official
                             </span>
-                            Good luck!
+                            <span class="mention">
+                                @XPBImages
+                            </span>
+                            Hülkenburg and Albon
                             <div class="date">
-                                20:22 on 19/04/2021
+                                20:24 on 23/04/2021
                             </div>
                         </div>
                     </section>
@@ -1262,7 +1269,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/>
                             </svg>
-                            ~1.75 commits per day
+                            ~1.76 commits per day
                         </div>
                     </section>
                 </div>
@@ -1913,9 +1920,9 @@
                         </g>
                         <g transform="translate(28.9, 17)">
                             <g transform="translate(0, 4.125)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.875 0,2.875 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.875 1.7,3.875 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.875 0,2.875 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.875 1.7,3.875 z"/>
                             </g>
                             <g transform="translate(-1.7, 2.3125)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1943,9 +1950,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5625 1.7,2.5625 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.0625)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9375 0,1.9375 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9375 1.7,2.9375 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9375 0,1.9375 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9375 1.7,2.9375 z"/>
                             </g>
                         </g>
                         <g transform="translate(30.599999999999998, 18)">
@@ -1955,9 +1962,9 @@
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5625 1.7,2.5625 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.0625)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9375 0,1.9375 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9375 1.7,2.9375 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9375 0,1.9375 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9375 1.7,2.9375 z"/>
                             </g>
                             <g transform="translate(-3.4, 6.875)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2135,14 +2142,14 @@
                         </g>
                         <g transform="translate(39.1, 23)">
                             <g transform="translate(0, 4.125)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.875 0,2.875 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.875 1.7,3.875 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.875 0,2.875 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.875 1.7,3.875 z"/>
                             </g>
                             <g transform="translate(-1.7, 4.1875)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.8125 0,3.8125 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.8125 1.7,4.8125 z"/>
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.8125 0,3.8125 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.8125 1.7,4.8125 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2233,10 +2240,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 7.4375)">
+                            <g transform="translate(-8.5, 7.25)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.5625 0,4.5625 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.5625 1.7,5.5625 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.75 0,4.75 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.75 1.7,5.75 z"/>
                             </g>
                         </g>
                     </g>
