@@ -9,7 +9,7 @@
 
 Hello my name is Thomas. My favourite programming language is Python and I love creating strange programs.
 
-- 🔭 I’m currently working on a bot for a discord server.
+- 🔭 I’m currently working on a web app that provides checklists and tools for Flight Simulators.
 
 - 🌱 I’m currently learning **Node Js and javascript**
 
