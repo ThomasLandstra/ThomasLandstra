@@ -9,9 +9,9 @@
 
 Hello my name is Thomas. My favourite programming language is Python and I love creating strange programs.
 
-- 🔭 I’m currently working on a web app that provides checklists and tools for Flight Simulators.
+- 🔭 I’m currently working on developing my existing skills in **Python** and devloping skills in **Javascript and Java**.
 
-- 🌱 I’m currently learning **Node Js and javascript**
+- 🌱 I’m currently learning **javascript and Java**
 
 - 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
 
