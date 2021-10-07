@@ -9,9 +9,9 @@
 
 Hello my name is Thomas. My favourite programming language is Python and I love creating strange programs.
 
-- 🔭 I’m currently working on developing my existing skills in **Python**.
+- 🔭 I’m currently working on developing my existing skills in **Python** and **GD Script**.
 
-- 🌱 I’m currently learning **pygame**.
+- 🌱 I’m currently learning **pygame** and **Godot**.
 
 - 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
 
