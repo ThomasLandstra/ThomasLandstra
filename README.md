@@ -13,7 +13,7 @@ Hello my name is Thomas, I'm 15 years old and I program as a hobby. My favourite
 
 - 🌱 I’m currently learning **pygame** and **Godot**.
 
-- 📫 How to reach me [**thomaslandstra@gmail.com**](thomaslandstra@gmail.com) or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
+- 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
 
 ---
 
