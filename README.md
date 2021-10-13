@@ -9,9 +9,9 @@
 
 Hello my name is Thomas, I'm 15 years old and I program as a hobby. My favourite programming language is Python and I love creating strange programs.
 
-- 🔭 I’m currently working on developing my existing skills in **Python** and **GD Script**.
+- 🔭 I’m currently working on a rougelike game made using godot.
 
-- 🌱 I’m currently learning **pygame** and **Godot**.
+- 🌱 I’m currently learning **GDscript** and **Godot**.
 
 - 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomaslandstra)
 
