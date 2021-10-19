@@ -7,7 +7,7 @@
 
 <br/>
 
-Hello my name is Thomas, I'm 15 years old and I program as a hobby. My favourite programming language is Python and I love creating strange programs.
+Hello my name is [Thomas Landstra](https://github.com/ThomasLandstra), I'm 15 years old and I program as a hobby. My favourite programming language is Python and I love creating strange programs.
 
 - 🔭 I’m currently working on a rougelike game made using godot.
 
