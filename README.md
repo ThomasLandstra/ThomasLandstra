@@ -13,7 +13,7 @@ Hello my name is [Thomas Landstra](https://github.com/ThomasLandstra), I'm 15 ye
 
 - 🌱 I’m currently learning **GDscript** and **Godot**.
 
-- 📫 How to reach me **thomaslandstra@gmail.com** or [**@ThomasLandstra**](https://twitter.com/thomastheceo)
+- 📫 Reach me on email; **thomaslandstra@gmail.com**, or on twitter; [**@ThomasLandstra**](https://twitter.com/thomastheceo)
 
 ---
 
