@@ -13,8 +13,6 @@ Hello my name is [Thomas Landstra](https://github.com/ThomasLandstra), I'm a stu
 
 - 🌱 I’m currently learning **Flask** and **Lua**.
 
-- 📫 Reach me on twitter; [**@ThomasTheCEO**](https://twitter.com/thomastheceo)
-
 - ⚡ Fun fact: Python is the GOAT!
 
 ---
