@@ -41,8 +41,7 @@ Hello my name is [Thomas Landstra](https://github.com/ThomasLandstra), I'm a stu
 <br>
 
 <details>
-  <summary>📈 My GitHub Stats</summary>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslandstra&" alt="thomaslandstra" /></p>
+  <summary>📈 My GitHub Stats</summary>=
   <br>
   
   <p align="center"> <img src="https://github-readme-stats-nine-bay.vercel.app/api?username=ThomasLandstra&show_icons=true&theme=great-gatsby" alt="thomaslandstra"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslandstra&theme=great-gatsby" alt="thomaslandstra"/></p>
