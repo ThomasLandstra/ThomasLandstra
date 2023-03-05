@@ -5,16 +5,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=theundercoverceo.theundercoverceo)
 
-<br/>
-
-Hello my name is [Thomas Landstra](https://github.com/ThomasLandstra), I'm a student and I program as a hobby. My favourite programming language is Python and I love creating strange programs.
-
-- 🔭 I’m currently working on making my private GitHub repos ready for the public.
-
-- 🌱 I’m currently learning **Flask** and **Lua**.
-
-- ⚡ Fun fact: Python is the GOAT!
-
 ---
 
 <br/>
