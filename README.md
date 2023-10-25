@@ -2,7 +2,6 @@
 
 ##### Super Cool Stats
 
-I promise I'm not a nerd
   
 <p align="center"><img src="https://github-profile-trophy-ten.vercel.app/?username=thomaslandstra&theme=onedark" alt="thomaslandstra" /></p>
   <p align="center"> <img src="https://github-readme-stats-nine-bay.vercel.app/api?username=ThomasLandstra&show_icons=true&theme=great-gatsby" alt="thomaslandstra"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomaslandstra&theme=great-gatsby" alt="thomaslandstra"/></p>
